@@ -7,5 +7,9 @@ int func(int a)
 {
   int x = 10;
   
+  int funcT(int z)
+  {
+      return z;
+  }
   return x;
 }
