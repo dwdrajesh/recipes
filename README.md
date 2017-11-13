@@ -9,7 +9,8 @@ int func(int a)
   
   int funcT(int z)
   {
-      return z;
+      int y = 9;
+      return y;
   }
   return x;
 }
